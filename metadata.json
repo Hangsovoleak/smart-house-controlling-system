@@ -1,0 +1,6 @@
+{
+  "name": "Cambodia Energy Usage Monitoring System",
+  "description": "An electricity usage monitoring system for Cambodian households, students, and small businesses with EDC tariff calculation, device search, room tree hierarchy, and energy relationship graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
